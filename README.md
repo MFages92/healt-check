@@ -1,2 +1,4 @@
 # healt-check
-Scripts para ver el estado del equipo
+
+
+I am editing the README file. Adding some more details about the project description.
